@@ -6,10 +6,14 @@ git_source(:github) do |repo_name|
 end
 ruby '2.5.1'
 gem 'bundler', '~> 1.15', '>= 1.15.4'
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 
+
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views', '~> 1.0'
+gem 'jquery-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
