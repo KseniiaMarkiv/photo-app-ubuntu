@@ -7,7 +7,7 @@ end
 ruby '2.5.1'
 gem 'bundler', '~> 1.15', '>= 1.15.4'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.1.4'
+gem 'rails', '~> 5.2.1'
 
 
 gem 'devise'
