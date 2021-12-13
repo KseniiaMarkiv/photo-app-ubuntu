@@ -15,6 +15,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'jquery-rails'
 gem 'stripe'
+gem 'dry-inflector', '~> 0.1.2'
 
 gem 'carrierwave'
 gem 'mini_magick'
